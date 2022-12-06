@@ -8,10 +8,11 @@
 * @website https://betterdiscord.app/theme/MinimalCord
 */
 @import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
 :root {
 --accent: 47,124,196;
 --message-padding: 10px;
 --message-spacing: 10px;
---font: 'Ubuntu';
+--font: 'Roboto
+';
 }
