@@ -1,7 +1,7 @@
 # CleanCord
 ## CleanCord is a minimal theme for betterdiscord
 
-![DiscordPTB_kkOf8B5cbe](https://user-images.githubusercontent.com/85003075/205804043-79ebbd74-82c9-4ba6-859f-8721f673dd41.png)
+![DiscordPTB_ncnxhOzyq9](https://user-images.githubusercontent.com/85003075/205858526-e4e698fd-a327-47e8-a96b-dab4d834587e.png)
 
 ## Installing
 
